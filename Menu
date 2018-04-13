@@ -1,0 +1,21 @@
+package br.unipe.cc.aula11;
+
+
+public class Menu {
+
+	public void menu (){
+		System.out.println("1 - Inicializar vetor");
+		System.out.println("2 - Imprimir arrays");
+		System.out.println("3 - Consultar elemento");
+		
+		System.out.println("9 - Sair do menu");
+	}
+	public void menuImpressao(){
+		
+		System.out.println("1 - imprimir com for");
+		System.out.println("2- imprimir com while");
+		System.out.println("3- imprimir com ToString");
+		
+	}
+}
+		
